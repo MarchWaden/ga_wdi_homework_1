@@ -1,0 +1,29 @@
+1. cd death star
+touch darth_vader.txt princess_leia.txt storm_trooper.txt
+
+2. cd ..
+mkdir galaxy_far_far_away galaxy_far_far_away/tatooine
+touch galaxy_far_far_away/tatooine/luke.txt galaxy_far_far_away/tatooine/ben_kenobi.txt
+
+3.mkdir galaxy_far_far_away/tatooine/millenium_falcon
+touch galaxy_far_far_away/tatooine/millenium_falcon/han_solo.txt galaxy_far_far_away/tatooine/millenium_falcon/chewbaca.txt
+
+4.cd galaxy_far_far_away/tatooine
+mv ben_kenobi.txt obi_wan.txt
+
+5. cd ..
+cd ..
+mv death_star/storm_trooper.txt galaxy_far_far_away/tatooine/
+
+6. mv luke.txt millenium_falcon
+mv obi_wan.txt millenium_falcon
+
+7/8. mv millenium_falcon/ ../death_star/
+
+9. cd ../death_star
+mv princess_leia.txt millenium_falcon
+
+10. rm millenium_falcon/obi_wan.txt
+
+11. This is very time consuming and I need to get the other homework done.
+Doing it is easy, it's just the copy paste that takes forever.
