@@ -6,3 +6,20 @@
 //6. type -help after the command
 //7. it autocompletes parts of folder or file names, and certain commands in some cases. It lets you type less,
 //which means less time spent and more importantly fewer typos.
+
+//Boolean expressions questions
+//1. <
+//2. >
+//3. ===
+//4. +, ==
+//5. *, ==
+//6. !=
+//7. ==
+
+//While loops questions
+//1. infinite
+//2. code won't execute so it's not infinite
+//3. code will output a string containing the letter "A" 20 times
+
+//Loops questions, part 4
+//1.
